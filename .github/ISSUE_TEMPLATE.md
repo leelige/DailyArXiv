@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 28, 2025
+title: Latest 15 Papers - October 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -30,4 +30,12 @@ labels: documentation
 | **[A Cost-Effective Framework for Predicting Parking Availability Using Geospatial Data and Machine Learning](http://arxiv.org/abs/2508.14125v1)** | 2025-08-18 |  |
 | **[Enhancing Corrosion Resistance of Aluminum Alloys Through AI and ML Modeling](http://arxiv.org/abs/2508.11685v1)** | 2025-08-10 | <details><summary>Manus...</summary><p>Manuscript length: 11 pages, 6 figures</p></details> |
 | **[A Lightweight Face Quality Assessment Framework to Improve Face Verification Performance in Real-Time Screening Applications](http://arxiv.org/abs/2507.15961v2)** | 2025-07-27 |  |
+| **[Improving Random Forests by Smoothing](http://arxiv.org/abs/2505.06852v1)** | 2025-05-11 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 4 pages appendix, 3 figures in appendix</p></details> |
+| **[Car Sensors Health Monitoring by Verification Based on Autoencoder and Random Forest Regression](http://arxiv.org/abs/2505.00876v1)** | 2025-05-01 | <details><summary>9Page...</summary><p>9Pages, 3 Figures and 5 Tables</p></details> |
+| **[Identifying Chemicals Through Dimensionality Reduction](http://arxiv.org/abs/2211.14708v2)** | 2025-04-24 | 12 pages, 24 figures |
+| **[Estimated Roadway Segment Traffic Data by Vehicle Class for the United States: A Machine Learning Approach](http://arxiv.org/abs/2502.05161v3)** | 2025-04-10 | <details><summary>17 pa...</summary><p>17 pages including references, 5 figures</p></details> |
+| **[Inference with Mondrian Random Forests](http://arxiv.org/abs/2310.09702v3)** | 2025-04-08 | <details><summary>64 pa...</summary><p>64 pages, 1 figure, 6 tables</p></details> |
+| **[Plant species richness prediction from DESIS hyperspectral data: A comparison study on feature extraction procedures and regression models](http://arxiv.org/abs/2301.01918v2)** | 2025-03-11 | <details><summary>Publi...</summary><p>Published in ISPRS Journal of Photogrammetry and Remote Sensing. Link: https://www.sciencedirect.com/science/article/pii/S0924271622003434</p></details> |
+| **[Statistical Study of Sensor Data and Investigation of ML-based Calibration Algorithms for Inexpensive Sensor Modules: Experiments from Cape Point](http://arxiv.org/abs/2503.13487v1)** | 2025-03-09 |  |
+| **[Agile Climate-Sensor Design and Calibration Algorithms Using Machine Learning: Experiments From Cape Point](http://arxiv.org/abs/2503.06777v1)** | 2025-03-09 |  |
 
