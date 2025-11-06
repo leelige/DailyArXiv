@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 06, 2025
+title: Latest 15 Papers - November 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -16,6 +16,7 @@ labels: documentation
 ## Query Tuning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KScaNN: Scalable Approximate Nearest Neighbor Search on Kunpeng](http://arxiv.org/abs/2511.03298v1)** | 2025-11-05 |  |
 | **[Budget-aware Query Tuning: An AutoML Perspective](http://arxiv.org/abs/2404.00137v1)** | 2024-03-29 |  |
 | **[Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning](http://arxiv.org/abs/2212.03220v2)** | 2023-04-27 | <details><summary>Accep...</summary><p>Accepted by CVPR 2023. Cheng-Hao Tu and Zheda Mai contributed equally to this work</p></details> |
 | **[OptImatch: Semantic Web System with Knowledge Base for Query Performance Problem Determination](http://arxiv.org/abs/1510.03302v1)** | 2015-10-12 | 12 pages |
