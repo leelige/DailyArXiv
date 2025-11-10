@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 10, 2025
+title: Latest 15 Papers - November 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -24,6 +24,7 @@ labels: documentation
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Inference with Mondrian Random Forests](http://arxiv.org/abs/2310.09702v4)** | 2025-11-07 | <details><summary>64 pa...</summary><p>64 pages, 1 figure, 6 tables</p></details> |
 | **[From data to design: Random forest regression model for predicting mechanical properties of alloy steel](http://arxiv.org/abs/2511.02290v1)** | 2025-11-04 |  |
 | **[Predicting the spatial distribution and demographics of commercial swine farms in the United States](http://arxiv.org/abs/2511.00132v1)** | 2025-10-31 |  |
 | **[Interpretable Machine Learning for Urban Heat Mitigation: Attribution and Weighting of Multi-Scale Drivers](http://arxiv.org/abs/2507.04802v3)** | 2025-10-10 |  |
@@ -37,6 +38,5 @@ labels: documentation
 | **[Car Sensors Health Monitoring by Verification Based on Autoencoder and Random Forest Regression](http://arxiv.org/abs/2505.00876v1)** | 2025-05-01 | <details><summary>9Page...</summary><p>9Pages, 3 Figures and 5 Tables</p></details> |
 | **[Identifying Chemicals Through Dimensionality Reduction](http://arxiv.org/abs/2211.14708v2)** | 2025-04-24 | 12 pages, 24 figures |
 | **[Estimated Roadway Segment Traffic Data by Vehicle Class for the United States: A Machine Learning Approach](http://arxiv.org/abs/2502.05161v3)** | 2025-04-10 | <details><summary>17 pa...</summary><p>17 pages including references, 5 figures</p></details> |
-| **[Inference with Mondrian Random Forests](http://arxiv.org/abs/2310.09702v3)** | 2025-04-08 | <details><summary>64 pa...</summary><p>64 pages, 1 figure, 6 tables</p></details> |
 | **[Plant species richness prediction from DESIS hyperspectral data: A comparison study on feature extraction procedures and regression models](http://arxiv.org/abs/2301.01918v2)** | 2025-03-11 | <details><summary>Publi...</summary><p>Published in ISPRS Journal of Photogrammetry and Remote Sensing. Link: https://www.sciencedirect.com/science/article/pii/S0924271622003434</p></details> |
 
