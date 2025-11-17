@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 17, 2025
+title: Latest 15 Papers - November 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -25,25 +25,26 @@ labels: documentation
 ## Query Tuning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RetrySQL: text-to-SQL training with retry data for self-correcting query generation](https://arxiv.org/abs/2507.02529v2)** | 2025-11-14 | <details><summary>AAAI ...</summary><p>AAAI 2026 Camera-ready version</p></details> |
+| **[iMAD: Intelligent Multi-Agent Debate for Efficient and Accurate LLM Inference](https://arxiv.org/abs/2511.11306v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026 (Oral)</p></details> |
+| **[Text2SQL-Flow: A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL](https://arxiv.org/abs/2511.10192v2)** | 2025-11-14 |  |
+| **[An Efficient Training Pipeline for Reasoning Graphical User Interface Agents](https://arxiv.org/abs/2511.08172v3)** | 2025-11-14 |  |
+| **[Text-to-SQL Domain Adaptation via Human-LLM Collaborative Data Annotation](https://arxiv.org/abs/2502.15980v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by IUI'25 Code & Demo: https://github.com/magic-YuanTian/SQLsynth</p></details> |
+| **[Enhancing the Medical Context-Awareness Ability of LLMs via Multifaceted Self-Refinement Learning](https://arxiv.org/abs/2511.10067v2)** | 2025-11-14 | 20 pages, 13 figures |
+| **[Leveraging Parameter Space Symmetries for Reasoning Skill Transfer in LLMs](https://arxiv.org/abs/2511.10850v1)** | 2025-11-13 |  |
+| **[RAG-Enhanced Collaborative LLM Agents for Drug Discovery](https://arxiv.org/abs/2502.17506v3)** | 2025-11-13 | <details><summary>Machi...</summary><p>Machine Learning, Drug Discovery</p></details> |
 | **[Reducing the Scope of Language Models](https://arxiv.org/abs/2410.21597v3)** | 2025-11-13 | <details><summary>Appea...</summary><p>Appears in AAAI 2026 in the Main Technical Track</p></details> |
 | **[Advanced Black-Box Tuning of Large Language Models with Limited API Calls](https://arxiv.org/abs/2511.10210v1)** | 2025-11-13 | 15 pages, 6 figures |
-| **[An Efficient Training Pipeline for Reasoning Graphical User Interface Agents](https://arxiv.org/abs/2511.08172v2)** | 2025-11-13 |  |
-| **[Text2SQL-Flow: A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL](https://arxiv.org/abs/2511.10192v1)** | 2025-11-13 |  |
-| **[Enhancing the Medical Context-Awareness Ability of LLMs via Multifaceted Self-Refinement Learning](https://arxiv.org/abs/2511.10067v1)** | 2025-11-13 | 20 pages, 13 figures |
 | **[Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable](https://arxiv.org/abs/2412.02054v3)** | 2025-11-13 | AAAI 2026 |
 | **[Beyond ReAct: A Planner-Centric Framework for Complex Tool-Augmented LLM Reasoning](https://arxiv.org/abs/2511.10037v1)** | 2025-11-13 |  |
 | **[Mitigating Perception Bias: A Training-Free Approach to Enhance LMM for Image Quality Assessment](https://arxiv.org/abs/2411.12791v2)** | 2025-11-13 |  |
 | **[Zero-Shot Referring Expression Comprehension via Vison-Language True/False Verification](https://arxiv.org/abs/2509.09958v3)** | 2025-11-13 |  |
 | **[SAM-DAQ: Segment Anything Model with Depth-guided Adaptive Queries for RGB-D Video Salient Object Detection](https://arxiv.org/abs/2511.09870v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to 40th AAAI Conference on Artificial Intelligence (AAAI 2026)</p></details> |
-| **[Answering Students' Questions on Course Forums Using Multiple Chain-of-Thought Reasoning and Finetuning RAG-Enabled LLM](https://arxiv.org/abs/2511.09831v1)** | 2025-11-13 | 8 pages |
-| **[Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt Generation for Enhanced LLM Content Moderation](https://arxiv.org/abs/2501.18638v3)** | 2025-11-12 | <details><summary>14 pa...</summary><p>14 pages, 5 figures; published in EMNLP 2025 ; Code at: https://github.com/dsbuddy/GAP-LLM-Safety</p></details> |
-| **[TARG: Training-Free Adaptive Retrieval Gating for Efficient RAG](https://arxiv.org/abs/2511.09803v1)** | 2025-11-12 |  |
-| **[Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments](https://arxiv.org/abs/2411.17741v2)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted at MICRO '25</p></details> |
-| **[Surgical AI Copilot: Energy-Based Fourier Gradient Low-Rank Adaptation for Surgical LLM Agent Reasoning and Planning](https://arxiv.org/abs/2503.09474v2)** | 2025-11-12 | 11 pages |
 
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Data Quality Affects Machine Learning Models for Credit Risk Assessment](https://arxiv.org/abs/2511.10964v1)** | 2025-11-14 |  |
 | **[Enhancing Password Security Through a High-Accuracy Scoring Framework Using Random Forests](https://arxiv.org/abs/2511.09492v2)** | 2025-11-13 |  |
 | **[Slice-Aware Spoofing Detection in 5G Networks Using Lightweight Machine Learning](https://arxiv.org/abs/2511.09610v1)** | 2025-11-12 |  |
 | **[Lassoed Forests: Random Forests with Adaptive Lasso Post-selection](https://arxiv.org/abs/2511.06698v2)** | 2025-11-11 |  |
@@ -58,5 +59,4 @@ labels: documentation
 | **[Experiments with Optimal Model Trees](https://arxiv.org/abs/2503.12902v2)** | 2025-10-30 |  |
 | **[Predicting All-Cause Hospital Readmissions from Medical Claims Data of Hospitalised Patients](https://arxiv.org/abs/2510.26188v1)** | 2025-10-30 | NCMLAI 2018 |
 | **[Epileptic Seizure Detection and Prediction from EEG Data: A Machine Learning Approach with Clinical Validation](https://arxiv.org/abs/2510.24986v1)** | 2025-10-28 | 9 pages, 3 figures |
-| **[A Random Forest Inverse Probability Weighted Pseudo-Observation Framework for Alternating Recurrent Events](https://arxiv.org/abs/2510.23764v1)** | 2025-10-27 |  |
 
