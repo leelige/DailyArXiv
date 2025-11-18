@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 18, 2025
+title: Latest 15 Papers - November 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -25,25 +25,29 @@ labels: documentation
 ## Query Tuning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tuning for Two Adversaries: Enhancing the Robustness Against Transfer and Query-Based Attacks using Hyperparameter Tuning](https://arxiv.org/abs/2511.13654v1)** | 2025-11-17 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the AAAI Conference on Artificial Intelligence (AAAI) 2026</p></details> |
+| **[CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product](https://arxiv.org/abs/2511.13626v1)** | 2025-11-17 | <details><summary>13 pa...</summary><p>13 pages, 3 figures,The 40th Annual AAAI Conference on Artificial Intelligence(AAAI 2026),Paper has been accepted for a poster presentation</p></details> |
+| **[Video Spatial Reasoning with Object-Centric 3D Rollout](https://arxiv.org/abs/2511.13190v1)** | 2025-11-17 |  |
+| **[SoK: Large Language Model Copyright Auditing via Fingerprinting](https://arxiv.org/abs/2508.19843v3)** | 2025-11-17 |  |
+| **[DeepKnown-Guard: A Proprietary Model-Based Safety Response Framework for AI Agents](https://arxiv.org/abs/2511.03138v4)** | 2025-11-17 |  |
+| **[Advanced Black-Box Tuning of Large Language Models with Limited API Calls](https://arxiv.org/abs/2511.10210v2)** | 2025-11-17 | 15 pages, 6 figures |
+| **[SafeKey: Amplifying Aha-Moment Insights for Safety Reasoning](https://arxiv.org/abs/2505.16186v2)** | 2025-11-17 |  |
+| **[D$^{2}$-VPR: A Parameter-efficient Visual-foundation-model-based Visual Place Recognition Method via Knowledge Distillation and Deformable Aggregation](https://arxiv.org/abs/2511.12528v1)** | 2025-11-16 |  |
+| **[Task-Aware Retrieval Augmentation for Dynamic Recommendation](https://arxiv.org/abs/2511.12495v1)** | 2025-11-16 | AAAI 2026 |
+| **[Fast Reasoning Segmentation for Images and Videos](https://arxiv.org/abs/2511.12368v1)** | 2025-11-15 |  |
+| **[Constructing and Interpreting Digital Twin Representations for Visual Reasoning via Reinforcement Learning](https://arxiv.org/abs/2511.12365v1)** | 2025-11-15 |  |
+| **[Bayesian Optimization in Language Space: An Eval-Efficient AI Self-Improvement Framework](https://arxiv.org/abs/2511.12063v1)** | 2025-11-15 |  |
+| **[MedPT: A Massive Medical Question Answering Dataset for Brazilian-Portuguese Speakers](https://arxiv.org/abs/2511.11878v1)** | 2025-11-14 | <details><summary>11 pa...</summary><p>11 pages, 3 tables, 2 figures</p></details> |
 | **[RetrySQL: text-to-SQL training with retry data for self-correcting query generation](https://arxiv.org/abs/2507.02529v2)** | 2025-11-14 | <details><summary>AAAI ...</summary><p>AAAI 2026 Camera-ready version</p></details> |
 | **[iMAD: Intelligent Multi-Agent Debate for Efficient and Accurate LLM Inference](https://arxiv.org/abs/2511.11306v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026 (Oral)</p></details> |
-| **[Text2SQL-Flow: A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL](https://arxiv.org/abs/2511.10192v2)** | 2025-11-14 |  |
-| **[An Efficient Training Pipeline for Reasoning Graphical User Interface Agents](https://arxiv.org/abs/2511.08172v3)** | 2025-11-14 |  |
-| **[Text-to-SQL Domain Adaptation via Human-LLM Collaborative Data Annotation](https://arxiv.org/abs/2502.15980v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted by IUI'25 Code & Demo: https://github.com/magic-YuanTian/SQLsynth</p></details> |
-| **[Enhancing the Medical Context-Awareness Ability of LLMs via Multifaceted Self-Refinement Learning](https://arxiv.org/abs/2511.10067v2)** | 2025-11-14 | 20 pages, 13 figures |
-| **[Leveraging Parameter Space Symmetries for Reasoning Skill Transfer in LLMs](https://arxiv.org/abs/2511.10850v1)** | 2025-11-13 |  |
-| **[RAG-Enhanced Collaborative LLM Agents for Drug Discovery](https://arxiv.org/abs/2502.17506v3)** | 2025-11-13 | <details><summary>Machi...</summary><p>Machine Learning, Drug Discovery</p></details> |
-| **[Reducing the Scope of Language Models](https://arxiv.org/abs/2410.21597v3)** | 2025-11-13 | <details><summary>Appea...</summary><p>Appears in AAAI 2026 in the Main Technical Track</p></details> |
-| **[Advanced Black-Box Tuning of Large Language Models with Limited API Calls](https://arxiv.org/abs/2511.10210v1)** | 2025-11-13 | 15 pages, 6 figures |
-| **[Redundant Queries in DETR-Based 3D Detection Methods: Unnecessary and Prunable](https://arxiv.org/abs/2412.02054v3)** | 2025-11-13 | AAAI 2026 |
-| **[Beyond ReAct: A Planner-Centric Framework for Complex Tool-Augmented LLM Reasoning](https://arxiv.org/abs/2511.10037v1)** | 2025-11-13 |  |
-| **[Mitigating Perception Bias: A Training-Free Approach to Enhance LMM for Image Quality Assessment](https://arxiv.org/abs/2411.12791v2)** | 2025-11-13 |  |
-| **[Zero-Shot Referring Expression Comprehension via Vison-Language True/False Verification](https://arxiv.org/abs/2509.09958v3)** | 2025-11-13 |  |
-| **[SAM-DAQ: Segment Anything Model with Depth-guided Adaptive Queries for RGB-D Video Salient Object Detection](https://arxiv.org/abs/2511.09870v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to 40th AAAI Conference on Artificial Intelligence (AAAI 2026)</p></details> |
 
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Asymptotic confidence bands for centered purely random forests](https://arxiv.org/abs/2511.13199v1)** | 2025-11-17 |  |
+| **[Determining the K in K-fold cross-validation](https://arxiv.org/abs/2511.12698v1)** | 2025-11-16 |  |
+| **[A spatio-temporal statistical model for property valuation at country-scale with adjustments for regional submarkets](https://arxiv.org/abs/2511.12625v1)** | 2025-11-16 |  |
+| **[A Review of Statistical and Machine Learning Approaches for Coral Bleaching Assessment](https://arxiv.org/abs/2511.12234v1)** | 2025-11-15 | <details><summary>40 pa...</summary><p>40 pages, 3 figures, 3 tables</p></details> |
 | **[How Data Quality Affects Machine Learning Models for Credit Risk Assessment](https://arxiv.org/abs/2511.10964v1)** | 2025-11-14 |  |
 | **[Enhancing Password Security Through a High-Accuracy Scoring Framework Using Random Forests](https://arxiv.org/abs/2511.09492v2)** | 2025-11-13 |  |
 | **[Slice-Aware Spoofing Detection in 5G Networks Using Lightweight Machine Learning](https://arxiv.org/abs/2511.09610v1)** | 2025-11-12 |  |
@@ -55,8 +59,4 @@ labels: documentation
 | **[Statistical Advantages of Oblique Randomized Decision Trees and Forests](https://arxiv.org/abs/2407.02458v2)** | 2025-11-03 | 43 pages, 2 figures |
 | **[Machine and Deep Learning for Indoor UWB Jammer Localization](https://arxiv.org/abs/2511.01819v1)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted at the 20th International Conference on Risks and Security of Internet and Systems (CRiSIS 2025, Gatineau-Canada, https://crisis2025.uqo.ca/). The paper will soon be published as post-proceedings in Springer's LNCS</p></details> |
 | **[Chronic Diseases Prediction using Machine Learning and Deep Learning Methods](https://arxiv.org/abs/2505.00189v2)** | 2025-11-01 | <details><summary>The a...</summary><p>The authors withdraw this paper following our supervisor's recommendation. Major modifications to the methodology and analysis are required, and the current version does not reflect the final validated work. A revised version will be submitted after completing the improvements</p></details> |
-| **[Predicting the spatial distribution and demographics of commercial swine farms in the United States](https://arxiv.org/abs/2511.00132v1)** | 2025-10-31 |  |
-| **[Experiments with Optimal Model Trees](https://arxiv.org/abs/2503.12902v2)** | 2025-10-30 |  |
-| **[Predicting All-Cause Hospital Readmissions from Medical Claims Data of Hospitalised Patients](https://arxiv.org/abs/2510.26188v1)** | 2025-10-30 | NCMLAI 2018 |
-| **[Epileptic Seizure Detection and Prediction from EEG Data: A Machine Learning Approach with Clinical Validation](https://arxiv.org/abs/2510.24986v1)** | 2025-10-28 | 9 pages, 3 figures |
 
