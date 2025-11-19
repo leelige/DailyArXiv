@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 19, 2025
+title: Latest 15 Papers - November 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -25,6 +25,13 @@ labels: documentation
 ## Query Tuning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education](https://arxiv.org/abs/2511.14423v1)** | 2025-11-18 |  |
+| **[PathMind: A Retrieve-Prioritize-Reason Framework for Knowledge Graph Reasoning with Large Language Models](https://arxiv.org/abs/2511.14256v1)** | 2025-11-18 | <details><summary>AAAI ...</summary><p>AAAI 2026, Long Paper, Oral</p></details> |
+| **[DIVER: A Multi-Stage Approach for Reasoning-intensive Information Retrieval](https://arxiv.org/abs/2508.07995v4)** | 2025-11-18 |  |
+| **[MalRAG: A Retrieval-Augmented LLM Framework for Open-set Malicious Traffic Identification](https://arxiv.org/abs/2511.14129v1)** | 2025-11-18 | <details><summary>13 pa...</summary><p>13 pages, 13 figures. Intended for submission to IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
+| **[KnowCoder-A1: Incentivizing Agentic Reasoning Capability with Outcome Supervision for KBQA](https://arxiv.org/abs/2510.25101v2)** | 2025-11-18 |  |
+| **[From Reasoning LLMs to BERT: A Two-Stage Distillation Framework for Search Relevance](https://arxiv.org/abs/2510.11056v2)** | 2025-11-18 |  |
+| **[TaoSearchEmb: A Multi-Objective Reinforcement Learning Framework for Dense Retrieval in Taobao Search](https://arxiv.org/abs/2511.13885v1)** | 2025-11-17 |  |
 | **[Tuning for Two Adversaries: Enhancing the Robustness Against Transfer and Query-Based Attacks using Hyperparameter Tuning](https://arxiv.org/abs/2511.13654v1)** | 2025-11-17 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the AAAI Conference on Artificial Intelligence (AAAI) 2026</p></details> |
 | **[CreBench: Human-Aligned Creativity Evaluation from Idea to Process to Product](https://arxiv.org/abs/2511.13626v1)** | 2025-11-17 | <details><summary>13 pa...</summary><p>13 pages, 3 figures,The 40th Annual AAAI Conference on Artificial Intelligence(AAAI 2026),Paper has been accepted for a poster presentation</p></details> |
 | **[Video Spatial Reasoning with Object-Centric 3D Rollout](https://arxiv.org/abs/2511.13190v1)** | 2025-11-17 |  |
@@ -33,17 +40,11 @@ labels: documentation
 | **[Advanced Black-Box Tuning of Large Language Models with Limited API Calls](https://arxiv.org/abs/2511.10210v2)** | 2025-11-17 | 15 pages, 6 figures |
 | **[SafeKey: Amplifying Aha-Moment Insights for Safety Reasoning](https://arxiv.org/abs/2505.16186v2)** | 2025-11-17 |  |
 | **[D$^{2}$-VPR: A Parameter-efficient Visual-foundation-model-based Visual Place Recognition Method via Knowledge Distillation and Deformable Aggregation](https://arxiv.org/abs/2511.12528v1)** | 2025-11-16 |  |
-| **[Task-Aware Retrieval Augmentation for Dynamic Recommendation](https://arxiv.org/abs/2511.12495v1)** | 2025-11-16 | AAAI 2026 |
-| **[Fast Reasoning Segmentation for Images and Videos](https://arxiv.org/abs/2511.12368v1)** | 2025-11-15 |  |
-| **[Constructing and Interpreting Digital Twin Representations for Visual Reasoning via Reinforcement Learning](https://arxiv.org/abs/2511.12365v1)** | 2025-11-15 |  |
-| **[Bayesian Optimization in Language Space: An Eval-Efficient AI Self-Improvement Framework](https://arxiv.org/abs/2511.12063v1)** | 2025-11-15 |  |
-| **[MedPT: A Massive Medical Question Answering Dataset for Brazilian-Portuguese Speakers](https://arxiv.org/abs/2511.11878v1)** | 2025-11-14 | <details><summary>11 pa...</summary><p>11 pages, 3 tables, 2 figures</p></details> |
-| **[RetrySQL: text-to-SQL training with retry data for self-correcting query generation](https://arxiv.org/abs/2507.02529v2)** | 2025-11-14 | <details><summary>AAAI ...</summary><p>AAAI 2026 Camera-ready version</p></details> |
-| **[iMAD: Intelligent Multi-Agent Debate for Efficient and Accurate LLM Inference](https://arxiv.org/abs/2511.11306v1)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026 (Oral)</p></details> |
 
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Impact of Bootstrap Sampling Rate on Random Forest Performance in Regression Tasks](https://arxiv.org/abs/2511.13952v1)** | 2025-11-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Asymptotic confidence bands for centered purely random forests](https://arxiv.org/abs/2511.13199v1)** | 2025-11-17 |  |
 | **[Determining the K in K-fold cross-validation](https://arxiv.org/abs/2511.12698v1)** | 2025-11-16 |  |
 | **[A spatio-temporal statistical model for property valuation at country-scale with adjustments for regional submarkets](https://arxiv.org/abs/2511.12625v1)** | 2025-11-16 |  |
@@ -58,5 +59,4 @@ labels: documentation
 | **[From data to design: Random forest regression model for predicting mechanical properties of alloy steel](https://arxiv.org/abs/2511.02290v1)** | 2025-11-04 |  |
 | **[Statistical Advantages of Oblique Randomized Decision Trees and Forests](https://arxiv.org/abs/2407.02458v2)** | 2025-11-03 | 43 pages, 2 figures |
 | **[Machine and Deep Learning for Indoor UWB Jammer Localization](https://arxiv.org/abs/2511.01819v1)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted at the 20th International Conference on Risks and Security of Internet and Systems (CRiSIS 2025, Gatineau-Canada, https://crisis2025.uqo.ca/). The paper will soon be published as post-proceedings in Springer's LNCS</p></details> |
-| **[Chronic Diseases Prediction using Machine Learning and Deep Learning Methods](https://arxiv.org/abs/2505.00189v2)** | 2025-11-01 | <details><summary>The a...</summary><p>The authors withdraw this paper following our supervisor's recommendation. Major modifications to the methodology and analysis are required, and the current version does not reflect the final validated work. A revised version will be submitted after completing the improvements</p></details> |
 
