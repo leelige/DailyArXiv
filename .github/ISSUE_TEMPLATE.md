@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 20, 2025
+title: Latest 15 Papers - November 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -25,6 +25,9 @@ labels: documentation
 ## Query Tuning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HV-Attack: Hierarchical Visual Attack for Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2511.15435v1)** | 2025-11-19 |  |
+| **[Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering](https://arxiv.org/abs/2511.15061v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This paper has been accepted to SIGIR-AP 2025</p></details> |
+| **[In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents](https://arxiv.org/abs/2509.01560v2)** | 2025-11-19 |  |
 | **[Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education](https://arxiv.org/abs/2511.14423v1)** | 2025-11-18 |  |
 | **[PathMind: A Retrieve-Prioritize-Reason Framework for Knowledge Graph Reasoning with Large Language Models](https://arxiv.org/abs/2511.14256v1)** | 2025-11-18 | <details><summary>AAAI ...</summary><p>AAAI 2026, Long Paper, Oral</p></details> |
 | **[DIVER: A Multi-Stage Approach for Reasoning-intensive Information Retrieval](https://arxiv.org/abs/2508.07995v4)** | 2025-11-18 |  |
@@ -37,13 +40,11 @@ labels: documentation
 | **[Video Spatial Reasoning with Object-Centric 3D Rollout](https://arxiv.org/abs/2511.13190v1)** | 2025-11-17 |  |
 | **[SoK: Large Language Model Copyright Auditing via Fingerprinting](https://arxiv.org/abs/2508.19843v3)** | 2025-11-17 |  |
 | **[DeepKnown-Guard: A Proprietary Model-Based Safety Response Framework for AI Agents](https://arxiv.org/abs/2511.03138v4)** | 2025-11-17 |  |
-| **[Advanced Black-Box Tuning of Large Language Models with Limited API Calls](https://arxiv.org/abs/2511.10210v2)** | 2025-11-17 | 15 pages, 6 figures |
-| **[SafeKey: Amplifying Aha-Moment Insights for Safety Reasoning](https://arxiv.org/abs/2505.16186v2)** | 2025-11-17 |  |
-| **[D$^{2}$-VPR: A Parameter-efficient Visual-foundation-model-based Visual Place Recognition Method via Knowledge Distillation and Deformable Aggregation](https://arxiv.org/abs/2511.12528v1)** | 2025-11-16 |  |
 
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Data-driven Prediction of Species-Specific Plant Responses to Spectral-Shifting Films from Leaf Phenotypic and Photosynthetic Traits](https://arxiv.org/abs/2511.15173v1)** | 2025-11-19 |  |
 | **[The Impact of Bootstrap Sampling Rate on Random Forest Performance in Regression Tasks](https://arxiv.org/abs/2511.13952v1)** | 2025-11-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Asymptotic confidence bands for centered purely random forests](https://arxiv.org/abs/2511.13199v1)** | 2025-11-17 |  |
 | **[Determining the K in K-fold cross-validation](https://arxiv.org/abs/2511.12698v1)** | 2025-11-16 |  |
@@ -58,5 +59,4 @@ labels: documentation
 | **[Autoencoding Random Forests](https://arxiv.org/abs/2505.21441v3)** | 2025-11-04 | <details><summary>10 pa...</summary><p>10 pages main text, 27 pages total. 9 figures, 4 tables. To be published in proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[From data to design: Random forest regression model for predicting mechanical properties of alloy steel](https://arxiv.org/abs/2511.02290v1)** | 2025-11-04 |  |
 | **[Statistical Advantages of Oblique Randomized Decision Trees and Forests](https://arxiv.org/abs/2407.02458v2)** | 2025-11-03 | 43 pages, 2 figures |
-| **[Machine and Deep Learning for Indoor UWB Jammer Localization](https://arxiv.org/abs/2511.01819v1)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted at the 20th International Conference on Risks and Security of Internet and Systems (CRiSIS 2025, Gatineau-Canada, https://crisis2025.uqo.ca/). The paper will soon be published as post-proceedings in Springer's LNCS</p></details> |
 
