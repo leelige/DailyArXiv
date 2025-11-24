@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 24, 2025
+title: Latest 15 Papers - November 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -25,6 +25,10 @@ labels: documentation
 ## Query Tuning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback](https://arxiv.org/abs/2511.17255v1)** | 2025-11-21 | Accepted to WACV'26 |
+| **[Interactive Query Answering on Knowledge Graphs with Soft Entity Constraints](https://arxiv.org/abs/2508.13663v2)** | 2025-11-21 |  |
+| **[Reason2Attack: Jailbreaking Text-to-Image Models via LLM Reasoning](https://arxiv.org/abs/2503.17987v3)** | 2025-11-21 | <details><summary>Noted...</summary><p>Noted that This paper includes model-generated content that may contain offensive or distressing material</p></details> |
+| **[Bridging the Semantic Gap: Contrastive Rewards for Multilingual Text-to-SQL with GRPO](https://arxiv.org/abs/2510.13827v2)** | 2025-11-21 | <details><summary>20th ...</summary><p>20th International Workshop on Semantic and Social Media Adaptation & Personalization</p></details> |
 | **[TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval](https://arxiv.org/abs/2511.16528v1)** | 2025-11-20 |  |
 | **[ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning](https://arxiv.org/abs/2511.16326v1)** | 2025-11-20 | Under Review in ARR |
 | **[From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos](https://arxiv.org/abs/2506.05274v2)** | 2025-11-20 |  |
@@ -36,14 +40,13 @@ labels: documentation
 | **[HV-Attack: Hierarchical Visual Attack for Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2511.15435v1)** | 2025-11-19 |  |
 | **[Beyond GeneGPT: A Multi-Agent Architecture with Open-Source LLMs for Enhanced Genomic Question Answering](https://arxiv.org/abs/2511.15061v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This paper has been accepted to SIGIR-AP 2025</p></details> |
 | **[In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents](https://arxiv.org/abs/2509.01560v2)** | 2025-11-19 |  |
-| **[Unified Defense for Large Language Models against Jailbreak and Fine-Tuning Attacks in Education](https://arxiv.org/abs/2511.14423v1)** | 2025-11-18 |  |
-| **[PathMind: A Retrieve-Prioritize-Reason Framework for Knowledge Graph Reasoning with Large Language Models](https://arxiv.org/abs/2511.14256v1)** | 2025-11-18 | <details><summary>AAAI ...</summary><p>AAAI 2026, Long Paper, Oral</p></details> |
-| **[DIVER: A Multi-Stage Approach for Reasoning-intensive Information Retrieval](https://arxiv.org/abs/2508.07995v4)** | 2025-11-18 |  |
-| **[MalRAG: A Retrieval-Augmented LLM Framework for Open-set Malicious Traffic Identification](https://arxiv.org/abs/2511.14129v1)** | 2025-11-18 | <details><summary>13 pa...</summary><p>13 pages, 13 figures. Intended for submission to IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
 
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Splines-Based Feature Importance in Kolmogorov-Arnold Networks: A Framework for Supervised Tabular Data Dimensionality Reduction](https://arxiv.org/abs/2509.23366v2)** | 2025-11-21 |  |
+| **[Exploring the added value of pretherapeutic MR descriptors in predicting breast cancer pathologic complete response to neoadjuvant chemotherapy](https://arxiv.org/abs/2511.17158v1)** | 2025-11-21 |  |
+| **[The Impact of Feature Scaling In Machine Learning: Effects on Regression and Classification Tasks](https://arxiv.org/abs/2506.08274v5)** | 2025-11-21 | 36 pages |
 | **[Machine Learning Epidemic Predictions Using Agent-based Wireless Sensor Network Models](https://arxiv.org/abs/2511.15982v1)** | 2025-11-20 | 8 pages |
 | **[Machine Learning vs. Randomness: Challenges in Predicting Binary Options Movements](https://arxiv.org/abs/2511.15960v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted for publication at the 26th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL 2025)</p></details> |
 | **[Data-driven Prediction of Species-Specific Plant Responses to Spectral-Shifting Films from Leaf Phenotypic and Photosynthetic Traits](https://arxiv.org/abs/2511.15173v1)** | 2025-11-19 |  |
@@ -56,7 +59,4 @@ labels: documentation
 | **[How Data Quality Affects Machine Learning Models for Credit Risk Assessment](https://arxiv.org/abs/2511.10964v1)** | 2025-11-14 |  |
 | **[Enhancing Password Security Through a High-Accuracy Scoring Framework Using Random Forests](https://arxiv.org/abs/2511.09492v2)** | 2025-11-13 |  |
 | **[Slice-Aware Spoofing Detection in 5G Networks Using Lightweight Machine Learning](https://arxiv.org/abs/2511.09610v1)** | 2025-11-12 |  |
-| **[Lassoed Forests: Random Forests with Adaptive Lasso Post-selection](https://arxiv.org/abs/2511.06698v2)** | 2025-11-11 |  |
-| **[Inference with Mondrian Random Forests](https://arxiv.org/abs/2310.09702v4)** | 2025-11-07 | <details><summary>64 pa...</summary><p>64 pages, 1 figure, 6 tables</p></details> |
-| **[coverforest: Conformal Predictions with Random Forest in Python](https://arxiv.org/abs/2501.14570v2)** | 2025-11-06 | In peer review |
 
