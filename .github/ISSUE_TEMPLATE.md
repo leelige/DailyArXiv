@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 26, 2025
+title: Latest 15 Papers - November 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -25,25 +25,27 @@ labels: documentation
 ## Query Tuning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BMGQ: A Bottom-up Method for Generating Complex Multi-hop Reasoning Questions from Semi-structured Data](https://arxiv.org/abs/2510.24151v2)** | 2025-11-25 |  |
+| **[FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement](https://arxiv.org/abs/2505.20192v3)** | 2025-11-25 |  |
+| **[Beyond ReAct: A Planner-Centric Framework for Complex Tool-Augmented LLM Reasoning](https://arxiv.org/abs/2511.10037v2)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[$\text{R}^2\text{R}$: A Route-to-Rerank Post-Training Framework for Multi-Domain Decoder-Only Rerankers](https://arxiv.org/abs/2511.19987v1)** | 2025-11-25 | <details><summary>13 pa...</summary><p>13 pages, including 3 figures and 3 tables</p></details> |
+| **[Reasoning-VLA: A Fast and General Vision-Language-Action Reasoning Model for Autonomous Driving](https://arxiv.org/abs/2511.19912v1)** | 2025-11-25 |  |
+| **[Zero-Shot Video Translation via Token Warping](https://arxiv.org/abs/2402.12099v4)** | 2025-11-25 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/Alex-Zhu1/TokenWarping</p></details> |
 | **[Generative Query Expansion with Multilingual LLMs for Cross-Lingual Information Retrieval](https://arxiv.org/abs/2511.19325v1)** | 2025-11-24 |  |
-| **[FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement](https://arxiv.org/abs/2505.20192v2)** | 2025-11-24 |  |
 | **[VALUE: Value-Aware Large Language Model for Query Rewriting via Weighted Trie in Sponsored Search](https://arxiv.org/abs/2504.05321v2)** | 2025-11-24 |  |
 | **[RoguePrompt: Dual-Layer Ciphering for Self-Reconstruction to Circumvent LLM Moderation](https://arxiv.org/abs/2511.18790v1)** | 2025-11-24 |  |
+| **[Connecting the Dots: Training-Free Visual Grounding via Agentic Reasoning](https://arxiv.org/abs/2511.19516v1)** | 2025-11-24 | AAAI 2025 |
 | **[Llama2Vec: Unsupervised Adaptation of Large Language Models for Dense Retrieval](https://arxiv.org/abs/2312.15503v2)** | 2025-11-23 | ACL 2024 |
+| **[Z-Space: A Multi-Agent Tool Orchestration Framework for Enterprise-Grade LLM Automation](https://arxiv.org/abs/2511.19483v1)** | 2025-11-23 |  |
 | **[Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093v4)** | 2025-11-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. Camera-ready version</p></details> |
 | **[A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback](https://arxiv.org/abs/2511.17255v1)** | 2025-11-21 | Accepted to WACV'26 |
 | **[Interactive Query Answering on Knowledge Graphs with Soft Entity Constraints](https://arxiv.org/abs/2508.13663v2)** | 2025-11-21 |  |
-| **[Reason2Attack: Jailbreaking Text-to-Image Models via LLM Reasoning](https://arxiv.org/abs/2503.17987v3)** | 2025-11-21 | <details><summary>Noted...</summary><p>Noted that This paper includes model-generated content that may contain offensive or distressing material</p></details> |
-| **[Bridging the Semantic Gap: Contrastive Rewards for Multilingual Text-to-SQL with GRPO](https://arxiv.org/abs/2510.13827v2)** | 2025-11-21 | <details><summary>20th ...</summary><p>20th International Workshop on Semantic and Social Media Adaptation & Personalization</p></details> |
-| **[TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval](https://arxiv.org/abs/2511.16528v1)** | 2025-11-20 |  |
-| **[ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning](https://arxiv.org/abs/2511.16326v1)** | 2025-11-20 | Under Review in ARR |
-| **[From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos](https://arxiv.org/abs/2506.05274v2)** | 2025-11-20 |  |
-| **[Policy Search, Retrieval, and Composition via Task Similarity in Collaborative Agentic Systems](https://arxiv.org/abs/2506.05577v3)** | 2025-11-20 | <details><summary>24 pa...</summary><p>24 pages, 20 figures, 8 tables</p></details> |
-| **[Mantis: A Versatile Vision-Language-Action Model with Disentangled Visual Foresight](https://arxiv.org/abs/2511.16175v1)** | 2025-11-20 |  |
 
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RFX: High-Performance Random Forests with GPU Acceleration and QLORA Compression](https://arxiv.org/abs/2511.19493v1)** | 2025-11-23 | <details><summary>39 pa...</summary><p>39 pages, 9 tables, 4 figures</p></details> |
+| **[The Generalized Proximity Forest](https://arxiv.org/abs/2511.19487v1)** | 2025-11-23 |  |
 | **[Less Is More: An Explainable AI Framework for Lightweight Malaria Classification](https://arxiv.org/abs/2511.18083v1)** | 2025-11-22 |  |
 | **[Splines-Based Feature Importance in Kolmogorov-Arnold Networks: A Framework for Supervised Tabular Data Dimensionality Reduction](https://arxiv.org/abs/2509.23366v2)** | 2025-11-21 |  |
 | **[Exploring the added value of pretherapeutic MR descriptors in predicting breast cancer pathologic complete response to neoadjuvant chemotherapy](https://arxiv.org/abs/2511.17158v1)** | 2025-11-21 |  |
@@ -57,6 +59,4 @@ labels: documentation
 | **[Asymptotic confidence bands for centered purely random forests](https://arxiv.org/abs/2511.13199v1)** | 2025-11-17 |  |
 | **[Understanding the Complexities of Responsibly Sharing NSFW Content Online](https://arxiv.org/abs/2511.15726v1)** | 2025-11-16 | 13 Pages, 7 Figures |
 | **[Determining the K in K-fold cross-validation](https://arxiv.org/abs/2511.12698v1)** | 2025-11-16 |  |
-| **[A spatio-temporal statistical model for property valuation at country-scale with adjustments for regional submarkets](https://arxiv.org/abs/2511.12625v1)** | 2025-11-16 |  |
-| **[A Review of Statistical and Machine Learning Approaches for Coral Bleaching Assessment](https://arxiv.org/abs/2511.12234v1)** | 2025-11-15 | <details><summary>40 pa...</summary><p>40 pages, 3 figures, 3 tables</p></details> |
 
