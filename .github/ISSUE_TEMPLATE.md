@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 27, 2025
+title: Latest 15 Papers - November 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -25,6 +25,11 @@ labels: documentation
 ## Query Tuning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Connecting the Dots: Training-Free Visual Grounding via Agentic Reasoning](https://arxiv.org/abs/2511.19516v2)** | 2025-11-26 | AAAI 2026 |
+| **[Towards an Effective Action-Region Tracking Framework for Fine-grained Video Action Recognition](https://arxiv.org/abs/2511.21202v1)** | 2025-11-26 |  |
+| **[Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs](https://arxiv.org/abs/2511.20940v1)** | 2025-11-26 | <details><summary>This ...</summary><p>This paper is accepted to SIGMOD 2026</p></details> |
+| **[Unsupervised Memorability Modeling from Tip-of-the-Tongue Retrieval Queries](https://arxiv.org/abs/2511.20854v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted at WACV 2026</p></details> |
+| **[TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649v4)** | 2025-11-25 |  |
 | **[BMGQ: A Bottom-up Method for Generating Complex Multi-hop Reasoning Questions from Semi-structured Data](https://arxiv.org/abs/2510.24151v2)** | 2025-11-25 |  |
 | **[FunReason: Enhancing Large Language Models' Function Calling via Self-Refinement Multiscale Loss and Automated Data Refinement](https://arxiv.org/abs/2505.20192v3)** | 2025-11-25 |  |
 | **[Beyond ReAct: A Planner-Centric Framework for Complex Tool-Augmented LLM Reasoning](https://arxiv.org/abs/2511.10037v2)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
@@ -34,12 +39,7 @@ labels: documentation
 | **[Generative Query Expansion with Multilingual LLMs for Cross-Lingual Information Retrieval](https://arxiv.org/abs/2511.19325v1)** | 2025-11-24 |  |
 | **[VALUE: Value-Aware Large Language Model for Query Rewriting via Weighted Trie in Sponsored Search](https://arxiv.org/abs/2504.05321v2)** | 2025-11-24 |  |
 | **[RoguePrompt: Dual-Layer Ciphering for Self-Reconstruction to Circumvent LLM Moderation](https://arxiv.org/abs/2511.18790v1)** | 2025-11-24 |  |
-| **[Connecting the Dots: Training-Free Visual Grounding via Agentic Reasoning](https://arxiv.org/abs/2511.19516v1)** | 2025-11-24 | AAAI 2025 |
 | **[Llama2Vec: Unsupervised Adaptation of Large Language Models for Dense Retrieval](https://arxiv.org/abs/2312.15503v2)** | 2025-11-23 | ACL 2024 |
-| **[Z-Space: A Multi-Agent Tool Orchestration Framework for Enterprise-Grade LLM Automation](https://arxiv.org/abs/2511.19483v1)** | 2025-11-23 |  |
-| **[Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093v4)** | 2025-11-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. Camera-ready version</p></details> |
-| **[A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback](https://arxiv.org/abs/2511.17255v1)** | 2025-11-21 | Accepted to WACV'26 |
-| **[Interactive Query Answering on Knowledge Graphs with Soft Entity Constraints](https://arxiv.org/abs/2508.13663v2)** | 2025-11-21 |  |
 
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
