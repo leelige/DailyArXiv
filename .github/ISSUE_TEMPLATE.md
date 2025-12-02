@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 02, 2025
+title: Latest 15 Papers - December 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -25,6 +25,12 @@ labels: documentation
 ## Query Tuning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HEALTH-PARIKSHA: Assessing RAG Models for Health Chatbots in Real-World Multilingual Settings](https://arxiv.org/abs/2410.13671v3)** | 2025-12-01 |  |
+| **[ZO-ASR: Zeroth-Order Fine-Tuning of Speech Foundation Models without Back-Propagation](https://arxiv.org/abs/2512.01267v1)** | 2025-12-01 | <details><summary>2025 ...</summary><p>2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)</p></details> |
+| **[Optimizing Generative Ranking Relevance via Reinforcement Learning in Xiaohongshu Search](https://arxiv.org/abs/2512.00968v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 ADS Track</p></details> |
+| **[ART: Adaptive Response Tuning Framework -- A Multi-Agent Tournament-Based Approach to LLM Response Optimization](https://arxiv.org/abs/2512.00617v1)** | 2025-11-29 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables. Conference-style paper</p></details> |
+| **[Sample-Efficient Expert Query Control in Active Imitation Learning via Conformal Prediction](https://arxiv.org/abs/2512.00453v1)** | 2025-11-29 |  |
+| **[CourseTimeQA: A Lecture-Video Benchmark and a Latency-Constrained Cross-Modal Fusion Method for Timestamped QA](https://arxiv.org/abs/2512.00360v1)** | 2025-11-29 | 5 figures, 8 tables |
 | **[LFM2 Technical Report](https://arxiv.org/abs/2511.23404v1)** | 2025-11-28 |  |
 | **[MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation](https://arxiv.org/abs/2511.23397v1)** | 2025-11-28 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, 2 tables</p></details> |
 | **[Group Relative Attention Guidance for Image Editing](https://arxiv.org/abs/2510.24657v2)** | 2025-11-28 |  |
@@ -34,16 +40,13 @@ labels: documentation
 | **[WritingBench: A Comprehensive Benchmark for Generative Writing](https://arxiv.org/abs/2503.05244v4)** | 2025-11-27 |  |
 | **[Focused Chain-of-Thought: Efficient LLM Reasoning via Structured Input Information](https://arxiv.org/abs/2511.22176v1)** | 2025-11-27 |  |
 | **[Bridging the Modality Gap by Similarity Standardization with Pseudo-Positive Samples](https://arxiv.org/abs/2511.22141v1)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted to PACLIC2025</p></details> |
-| **[Connecting the Dots: Training-Free Visual Grounding via Agentic Reasoning](https://arxiv.org/abs/2511.19516v2)** | 2025-11-26 | AAAI 2026 |
-| **[Towards an Effective Action-Region Tracking Framework for Fine-grained Video Action Recognition](https://arxiv.org/abs/2511.21202v1)** | 2025-11-26 |  |
-| **[Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs](https://arxiv.org/abs/2511.20940v1)** | 2025-11-26 | <details><summary>This ...</summary><p>This paper is accepted to SIGMOD 2026</p></details> |
-| **[Unsupervised Memorability Modeling from Tip-of-the-Tongue Retrieval Queries](https://arxiv.org/abs/2511.20854v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted at WACV 2026</p></details> |
-| **[TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster](https://arxiv.org/abs/2503.07649v4)** | 2025-11-25 |  |
-| **[BMGQ: A Bottom-up Method for Generating Complex Multi-hop Reasoning Questions from Semi-structured Data](https://arxiv.org/abs/2510.24151v2)** | 2025-11-25 |  |
 
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Comparative Study of Machine Learning Algorithms for Electricity Price Forecasting with LIME-Based Interpretability](https://arxiv.org/abs/2512.01212v1)** | 2025-12-01 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Accepted for publication at ICEIEC 2025 (not yet published)</p></details> |
+| **[Statistical NLP for Optimization of Clinical Trial Success Prediction in Pharmaceutical R&D](https://arxiv.org/abs/2512.00586v1)** | 2025-11-29 | <details><summary>Docto...</summary><p>Doctor of Engineering Praxis Dissertation, The George Washington University. 122 pages. Present affiliation: Iambic Therapeutics</p></details> |
+| **[An RKHS Perspective on Tree Ensembles](https://arxiv.org/abs/2512.00397v1)** | 2025-11-29 | 69 pages |
 | **[Asymptotic Theory and Phase Transitions for Variable Importance in Quantile Regression Forests](https://arxiv.org/abs/2511.23212v1)** | 2025-11-28 |  |
 | **[Modeling Chaotic Pedestrian Behavior Using Chaos Indicators and Supervised Learning](https://arxiv.org/abs/2511.22887v1)** | 2025-11-28 |  |
 | **[Understanding the Complexities of Responsibly Sharing NSFW Content Online](https://arxiv.org/abs/2511.15726v2)** | 2025-11-28 | 13 Pages, 7 Figures |
@@ -56,7 +59,4 @@ labels: documentation
 | **[Exploring the added value of pretherapeutic MR descriptors in predicting breast cancer pathologic complete response to neoadjuvant chemotherapy](https://arxiv.org/abs/2511.17158v1)** | 2025-11-21 |  |
 | **[The Impact of Feature Scaling In Machine Learning: Effects on Regression and Classification Tasks](https://arxiv.org/abs/2506.08274v5)** | 2025-11-21 | 36 pages |
 | **[Predicting Healthcare Provider Engagement in SMS Campaigns](https://arxiv.org/abs/2511.17658v1)** | 2025-11-20 |  |
-| **[Machine Learning Epidemic Predictions Using Agent-based Wireless Sensor Network Models](https://arxiv.org/abs/2511.15982v1)** | 2025-11-20 | 8 pages |
-| **[Machine Learning vs. Randomness: Challenges in Predicting Binary Options Movements](https://arxiv.org/abs/2511.15960v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted for publication at the 26th International Conference on Intelligent Data Engineering and Automated Learning (IDEAL 2025)</p></details> |
-| **[Upstream Probabilistic Meta-Imputation for Multimodal Pediatric Pancreatitis Classification](https://arxiv.org/abs/2511.17635v1)** | 2025-11-19 | 5 pages, 5 figures |
 
