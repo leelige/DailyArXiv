@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 03, 2025
+title: Latest 15 Papers - December 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -25,6 +25,9 @@ labels: documentation
 ## Query Tuning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TokenPowerBench: Benchmarking the Power Consumption of LLM Inference](https://arxiv.org/abs/2512.03024v1)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted by the AAAI'26 Conference Main Track</p></details> |
+| **[iMAD: Intelligent Multi-Agent Debate for Efficient and Accurate LLM Inference](https://arxiv.org/abs/2511.11306v2)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026 (Oral)</p></details> |
+| **[VACoT: Rethinking Visual Data Augmentation with VLMs](https://arxiv.org/abs/2512.02361v1)** | 2025-12-02 |  |
 | **[HEALTH-PARIKSHA: Assessing RAG Models for Health Chatbots in Real-World Multilingual Settings](https://arxiv.org/abs/2410.13671v3)** | 2025-12-01 |  |
 | **[ZO-ASR: Zeroth-Order Fine-Tuning of Speech Foundation Models without Back-Propagation](https://arxiv.org/abs/2512.01267v1)** | 2025-12-01 | <details><summary>2025 ...</summary><p>2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)</p></details> |
 | **[Optimizing Generative Ranking Relevance via Reinforcement Learning in Xiaohongshu Search](https://arxiv.org/abs/2512.00968v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 ADS Track</p></details> |
@@ -37,13 +40,12 @@ labels: documentation
 | **[Learning to Refuse: Refusal-Aware Reinforcement Fine-Tuning for Hard-Irrelevant Queries in Video Temporal Grounding](https://arxiv.org/abs/2511.23151v1)** | 2025-11-28 | 19 pages |
 | **[ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2511.22715v1)** | 2025-11-27 |  |
 | **[Interactive Query Answering on Knowledge Graphs with Soft Entity Constraints](https://arxiv.org/abs/2508.13663v3)** | 2025-11-27 |  |
-| **[WritingBench: A Comprehensive Benchmark for Generative Writing](https://arxiv.org/abs/2503.05244v4)** | 2025-11-27 |  |
-| **[Focused Chain-of-Thought: Efficient LLM Reasoning via Structured Input Information](https://arxiv.org/abs/2511.22176v1)** | 2025-11-27 |  |
-| **[Bridging the Modality Gap by Similarity Standardization with Pseudo-Positive Samples](https://arxiv.org/abs/2511.22141v1)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted to PACLIC2025</p></details> |
 
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bangla Hate Speech Classification with Fine-tuned Transformer Models](https://arxiv.org/abs/2512.02845v1)** | 2025-12-02 |  |
+| **[Hybrid(Penalized Regression and MLP) Models for Outcome Prediction in HDLSS Health Data](https://arxiv.org/abs/2512.02489v1)** | 2025-12-02 |  |
 | **[A Comparative Study of Machine Learning Algorithms for Electricity Price Forecasting with LIME-Based Interpretability](https://arxiv.org/abs/2512.01212v1)** | 2025-12-01 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Accepted for publication at ICEIEC 2025 (not yet published)</p></details> |
 | **[Statistical NLP for Optimization of Clinical Trial Success Prediction in Pharmaceutical R&D](https://arxiv.org/abs/2512.00586v1)** | 2025-11-29 | <details><summary>Docto...</summary><p>Doctor of Engineering Praxis Dissertation, The George Washington University. 122 pages. Present affiliation: Iambic Therapeutics</p></details> |
 | **[An RKHS Perspective on Tree Ensembles](https://arxiv.org/abs/2512.00397v1)** | 2025-11-29 | 69 pages |
@@ -57,6 +59,4 @@ labels: documentation
 | **[Less Is More: An Explainable AI Framework for Lightweight Malaria Classification](https://arxiv.org/abs/2511.18083v1)** | 2025-11-22 |  |
 | **[Splines-Based Feature Importance in Kolmogorov-Arnold Networks: A Framework for Supervised Tabular Data Dimensionality Reduction](https://arxiv.org/abs/2509.23366v2)** | 2025-11-21 |  |
 | **[Exploring the added value of pretherapeutic MR descriptors in predicting breast cancer pathologic complete response to neoadjuvant chemotherapy](https://arxiv.org/abs/2511.17158v1)** | 2025-11-21 |  |
-| **[The Impact of Feature Scaling In Machine Learning: Effects on Regression and Classification Tasks](https://arxiv.org/abs/2506.08274v5)** | 2025-11-21 | 36 pages |
-| **[Predicting Healthcare Provider Engagement in SMS Campaigns](https://arxiv.org/abs/2511.17658v1)** | 2025-11-20 |  |
 
