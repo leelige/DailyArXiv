@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 04, 2025
+title: Latest 15 Papers - December 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -25,6 +25,10 @@ labels: documentation
 ## Query Tuning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[D$^{2}$-VPR: A Parameter-efficient Visual-foundation-model-based Visual Place Recognition Method via Knowledge Distillation and Deformable Aggregation](https://arxiv.org/abs/2511.12528v2)** | 2025-12-03 |  |
+| **[MERIT: Multilingual Semantic Retrieval with Interleaved Multi-Condition Query](https://arxiv.org/abs/2506.03144v3)** | 2025-12-03 | <details><summary>NeurI...</summary><p>NeurIPS 2025; Project Page, Code, and Dataset at: https://merit-2025.github.io/</p></details> |
+| **[FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction](https://arxiv.org/abs/2509.04018v2)** | 2025-12-03 |  |
+| **[Immunity memory-based jailbreak detection: multi-agent adaptive guard for large language models](https://arxiv.org/abs/2512.03356v1)** | 2025-12-03 |  |
 | **[TokenPowerBench: Benchmarking the Power Consumption of LLM Inference](https://arxiv.org/abs/2512.03024v1)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted by the AAAI'26 Conference Main Track</p></details> |
 | **[iMAD: Intelligent Multi-Agent Debate for Efficient and Accurate LLM Inference](https://arxiv.org/abs/2511.11306v2)** | 2025-12-02 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026 (Oral)</p></details> |
 | **[VACoT: Rethinking Visual Data Augmentation with VLMs](https://arxiv.org/abs/2512.02361v1)** | 2025-12-02 |  |
@@ -36,14 +40,11 @@ labels: documentation
 | **[CourseTimeQA: A Lecture-Video Benchmark and a Latency-Constrained Cross-Modal Fusion Method for Timestamped QA](https://arxiv.org/abs/2512.00360v1)** | 2025-11-29 | 5 figures, 8 tables |
 | **[LFM2 Technical Report](https://arxiv.org/abs/2511.23404v1)** | 2025-11-28 |  |
 | **[MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation](https://arxiv.org/abs/2511.23397v1)** | 2025-11-28 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, 2 tables</p></details> |
-| **[Group Relative Attention Guidance for Image Editing](https://arxiv.org/abs/2510.24657v2)** | 2025-11-28 |  |
-| **[Learning to Refuse: Refusal-Aware Reinforcement Fine-Tuning for Hard-Irrelevant Queries in Video Temporal Grounding](https://arxiv.org/abs/2511.23151v1)** | 2025-11-28 | 19 pages |
-| **[ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2511.22715v1)** | 2025-11-27 |  |
-| **[Interactive Query Answering on Knowledge Graphs with Soft Entity Constraints](https://arxiv.org/abs/2508.13663v3)** | 2025-11-27 |  |
 
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deteccion de intrusiones en redes mediante algoritmos de aprendizaje automatico: Un estudio multiclase sobre el conjunto de datos NSL-KDD](https://arxiv.org/abs/2512.03200v1)** | 2025-12-02 | in Spanish language |
 | **[Bangla Hate Speech Classification with Fine-tuned Transformer Models](https://arxiv.org/abs/2512.02845v1)** | 2025-12-02 |  |
 | **[Hybrid(Penalized Regression and MLP) Models for Outcome Prediction in HDLSS Health Data](https://arxiv.org/abs/2512.02489v1)** | 2025-12-02 |  |
 | **[A Comparative Study of Machine Learning Algorithms for Electricity Price Forecasting with LIME-Based Interpretability](https://arxiv.org/abs/2512.01212v1)** | 2025-12-01 | <details><summary>5 pag...</summary><p>5 pages, 5 figures. Accepted for publication at ICEIEC 2025 (not yet published)</p></details> |
@@ -58,5 +59,4 @@ labels: documentation
 | **[The Generalized Proximity Forest](https://arxiv.org/abs/2511.19487v1)** | 2025-11-23 |  |
 | **[Less Is More: An Explainable AI Framework for Lightweight Malaria Classification](https://arxiv.org/abs/2511.18083v1)** | 2025-11-22 |  |
 | **[Splines-Based Feature Importance in Kolmogorov-Arnold Networks: A Framework for Supervised Tabular Data Dimensionality Reduction](https://arxiv.org/abs/2509.23366v2)** | 2025-11-21 |  |
-| **[Exploring the added value of pretherapeutic MR descriptors in predicting breast cancer pathologic complete response to neoadjuvant chemotherapy](https://arxiv.org/abs/2511.17158v1)** | 2025-11-21 |  |
 
