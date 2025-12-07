@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 05, 2025
+title: Latest 15 Papers - December 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -25,6 +25,10 @@ labels: documentation
 ## Query Tuning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TaoSR1: The Thinking Model for E-commerce Relevance Search](https://arxiv.org/abs/2508.12365v3)** | 2025-12-04 |  |
+| **[When Robots Should Say "I Don't Know": Benchmarking Abstention in Embodied Question Answering](https://arxiv.org/abs/2512.04597v1)** | 2025-12-04 |  |
+| **[Route-and-Reason: Scaling Large Language Model Reasoning with Reinforced Model Router](https://arxiv.org/abs/2506.05901v2)** | 2025-12-04 |  |
+| **[Bayesian Optimization in Language Space: An Eval-Efficient AI Self-Improvement Framework](https://arxiv.org/abs/2511.12063v2)** | 2025-12-03 |  |
 | **[D$^{2}$-VPR: A Parameter-efficient Visual-foundation-model-based Visual Place Recognition Method via Knowledge Distillation and Deformable Aggregation](https://arxiv.org/abs/2511.12528v2)** | 2025-12-03 |  |
 | **[MERIT: Multilingual Semantic Retrieval with Interleaved Multi-Condition Query](https://arxiv.org/abs/2506.03144v3)** | 2025-12-03 | <details><summary>NeurI...</summary><p>NeurIPS 2025; Project Page, Code, and Dataset at: https://merit-2025.github.io/</p></details> |
 | **[FPC-VLA: A Vision-Language-Action Framework with a Supervisor for Failure Prediction and Correction](https://arxiv.org/abs/2509.04018v2)** | 2025-12-03 |  |
@@ -36,14 +40,12 @@ labels: documentation
 | **[ZO-ASR: Zeroth-Order Fine-Tuning of Speech Foundation Models without Back-Propagation](https://arxiv.org/abs/2512.01267v1)** | 2025-12-01 | <details><summary>2025 ...</summary><p>2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)</p></details> |
 | **[Optimizing Generative Ranking Relevance via Reinforcement Learning in Xiaohongshu Search](https://arxiv.org/abs/2512.00968v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 ADS Track</p></details> |
 | **[ART: Adaptive Response Tuning Framework -- A Multi-Agent Tournament-Based Approach to LLM Response Optimization](https://arxiv.org/abs/2512.00617v1)** | 2025-11-29 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables. Conference-style paper</p></details> |
-| **[Sample-Efficient Expert Query Control in Active Imitation Learning via Conformal Prediction](https://arxiv.org/abs/2512.00453v1)** | 2025-11-29 |  |
-| **[CourseTimeQA: A Lecture-Video Benchmark and a Latency-Constrained Cross-Modal Fusion Method for Timestamped QA](https://arxiv.org/abs/2512.00360v1)** | 2025-11-29 | 5 figures, 8 tables |
-| **[LFM2 Technical Report](https://arxiv.org/abs/2511.23404v1)** | 2025-11-28 |  |
-| **[MegaChat: A Synthetic Persian Q&A Dataset for High-Quality Sales Chatbot Evaluation](https://arxiv.org/abs/2511.23397v1)** | 2025-11-28 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, 2 tables</p></details> |
 
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sarcasm Detection on Reddit Using Classical Machine Learning and Feature Engineering](https://arxiv.org/abs/2512.04396v1)** | 2025-12-04 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, includes full Python code. Classical machine learning baseline for sarcasm detection on the SARC 2.0 dataset</p></details> |
+| **[Fine-Tuning ChemBERTa for Predicting Inhibitory Activity Against TDP1 Using Deep Learning](https://arxiv.org/abs/2512.04252v1)** | 2025-12-03 |  |
 | **[Deteccion de intrusiones en redes mediante algoritmos de aprendizaje automatico: Un estudio multiclase sobre el conjunto de datos NSL-KDD](https://arxiv.org/abs/2512.03200v1)** | 2025-12-02 | in Spanish language |
 | **[Bangla Hate Speech Classification with Fine-tuned Transformer Models](https://arxiv.org/abs/2512.02845v1)** | 2025-12-02 |  |
 | **[Hybrid(Penalized Regression and MLP) Models for Outcome Prediction in HDLSS Health Data](https://arxiv.org/abs/2512.02489v1)** | 2025-12-02 |  |
@@ -57,6 +59,4 @@ labels: documentation
 | **[Textual semantics and machine learning methods for data product pricing](https://arxiv.org/abs/2511.22185v1)** | 2025-11-27 |  |
 | **[RFX: High-Performance Random Forests with GPU Acceleration and QLORA Compression](https://arxiv.org/abs/2511.19493v1)** | 2025-11-23 | <details><summary>39 pa...</summary><p>39 pages, 9 tables, 4 figures</p></details> |
 | **[The Generalized Proximity Forest](https://arxiv.org/abs/2511.19487v1)** | 2025-11-23 |  |
-| **[Less Is More: An Explainable AI Framework for Lightweight Malaria Classification](https://arxiv.org/abs/2511.18083v1)** | 2025-11-22 |  |
-| **[Splines-Based Feature Importance in Kolmogorov-Arnold Networks: A Framework for Supervised Tabular Data Dimensionality Reduction](https://arxiv.org/abs/2509.23366v2)** | 2025-11-21 |  |
 
