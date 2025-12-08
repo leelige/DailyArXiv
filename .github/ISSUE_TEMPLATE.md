@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 08, 2025
+title: Latest 15 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -25,6 +25,7 @@ labels: documentation
 ## Query Tuning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Concept Filtering Defenses against Child Sexual Abuse Material Generation by Text-to-Image Models](https://arxiv.org/abs/2512.05707v1)** | 2025-12-05 |  |
 | **[TaoSR1: The Thinking Model for E-commerce Relevance Search](https://arxiv.org/abs/2508.12365v3)** | 2025-12-04 |  |
 | **[When Robots Should Say "I Don't Know": Benchmarking Abstention in Embodied Question Answering](https://arxiv.org/abs/2512.04597v1)** | 2025-12-04 |  |
 | **[Route-and-Reason: Scaling Large Language Model Reasoning with Reinforced Model Router](https://arxiv.org/abs/2506.05901v2)** | 2025-12-04 |  |
@@ -39,11 +40,11 @@ labels: documentation
 | **[HEALTH-PARIKSHA: Assessing RAG Models for Health Chatbots in Real-World Multilingual Settings](https://arxiv.org/abs/2410.13671v3)** | 2025-12-01 |  |
 | **[ZO-ASR: Zeroth-Order Fine-Tuning of Speech Foundation Models without Back-Propagation](https://arxiv.org/abs/2512.01267v1)** | 2025-12-01 | <details><summary>2025 ...</summary><p>2025 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)</p></details> |
 | **[Optimizing Generative Ranking Relevance via Reinforcement Learning in Xiaohongshu Search](https://arxiv.org/abs/2512.00968v1)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 ADS Track</p></details> |
-| **[ART: Adaptive Response Tuning Framework -- A Multi-Agent Tournament-Based Approach to LLM Response Optimization](https://arxiv.org/abs/2512.00617v1)** | 2025-11-29 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables. Conference-style paper</p></details> |
 
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 | **[Sarcasm Detection on Reddit Using Classical Machine Learning and Feature Engineering](https://arxiv.org/abs/2512.04396v1)** | 2025-12-04 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, includes full Python code. Classical machine learning baseline for sarcasm detection on the SARC 2.0 dataset</p></details> |
 | **[Fine-Tuning ChemBERTa for Predicting Inhibitory Activity Against TDP1 Using Deep Learning](https://arxiv.org/abs/2512.04252v1)** | 2025-12-03 |  |
 | **[Deteccion de intrusiones en redes mediante algoritmos de aprendizaje automatico: Un estudio multiclase sobre el conjunto de datos NSL-KDD](https://arxiv.org/abs/2512.03200v1)** | 2025-12-02 | in Spanish language |
@@ -58,5 +59,4 @@ labels: documentation
 | **[Can Synthetic Data Improve Symbolic Regression Extrapolation Performance?](https://arxiv.org/abs/2511.22794v1)** | 2025-11-27 | <details><summary>8 pag...</summary><p>8 pages, 16 figures, GECCO 2025 Symbolic Regression Workshop</p></details> |
 | **[Textual semantics and machine learning methods for data product pricing](https://arxiv.org/abs/2511.22185v1)** | 2025-11-27 |  |
 | **[RFX: High-Performance Random Forests with GPU Acceleration and QLORA Compression](https://arxiv.org/abs/2511.19493v1)** | 2025-11-23 | <details><summary>39 pa...</summary><p>39 pages, 9 tables, 4 figures</p></details> |
-| **[The Generalized Proximity Forest](https://arxiv.org/abs/2511.19487v1)** | 2025-11-23 |  |
 
