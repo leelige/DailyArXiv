@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 06, 2026
+title: Latest 15 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -24,6 +24,7 @@ labels: documentation
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamic Accuracy Estimation in a Wi-Fi-based Positioning System](https://arxiv.org/abs/2601.00999v1)** | 2026-01-02 | <details><summary>Origi...</summary><p>Originally presented at 2025 33rd Telecommunications Forum (TELFOR), Belgrade, Serbia</p></details> |
 | **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 | **[Inference with Mondrian Random Forests](https://arxiv.org/abs/2310.09702v4)** | 2025-11-07 | <details><summary>64 pa...</summary><p>64 pages, 1 figure, 6 tables</p></details> |
 | **[From data to design: Random forest regression model for predicting mechanical properties of alloy steel](https://arxiv.org/abs/2511.02290v1)** | 2025-11-04 |  |
@@ -38,5 +39,4 @@ labels: documentation
 | **[Improving Random Forests by Smoothing](https://arxiv.org/abs/2505.06852v1)** | 2025-05-11 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 4 pages appendix, 3 figures in appendix</p></details> |
 | **[Car Sensors Health Monitoring by Verification Based on Autoencoder and Random Forest Regression](https://arxiv.org/abs/2505.00876v1)** | 2025-05-01 | <details><summary>9Page...</summary><p>9Pages, 3 Figures and 5 Tables</p></details> |
 | **[Identifying Chemicals Through Dimensionality Reduction](https://arxiv.org/abs/2211.14708v2)** | 2025-04-24 | 12 pages, 24 figures |
-| **[Estimated Roadway Segment Traffic Data by Vehicle Class for the United States: A Machine Learning Approach](https://arxiv.org/abs/2502.05161v3)** | 2025-04-10 | <details><summary>17 pa...</summary><p>17 pages including references, 5 figures</p></details> |
 
