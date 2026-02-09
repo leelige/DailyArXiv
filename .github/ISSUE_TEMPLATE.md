@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 09, 2026
+title: Latest 15 Papers - February 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -24,6 +24,7 @@ labels: documentation
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Content-Driven Frame-Level Bit Prediction for Rate Control in Versatile Video Coding](https://arxiv.org/abs/2602.06242v1)** | 2026-02-05 | <details><summary>2026 ...</summary><p>2026 IEEE International Symposium on Circuits and Systems (ISCAS)</p></details> |
 | **[Adaptive Surrogate-Based Strategy for Accelerating Convergence Speed when Solving Expensive Unconstrained Multi-Objective Optimisation Problems](https://arxiv.org/abs/2601.21885v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted for publication in SWEVO (Swarm and Evolutionary Computation)</p></details> |
 | **[Dynamic Accuracy Estimation in a Wi-Fi-based Positioning System](https://arxiv.org/abs/2601.00999v1)** | 2026-01-02 | <details><summary>Origi...</summary><p>Originally presented at 2025 33rd Telecommunications Forum (TELFOR), Belgrade, Serbia</p></details> |
 | **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
@@ -38,5 +39,4 @@ labels: documentation
 | **[Enhancing Corrosion Resistance of Aluminum Alloys Through AI and ML Modeling](https://arxiv.org/abs/2508.11685v1)** | 2025-08-10 | <details><summary>Manus...</summary><p>Manuscript length: 11 pages, 6 figures</p></details> |
 | **[A Lightweight Face Quality Assessment Framework to Improve Face Verification Performance in Real-Time Screening Applications](https://arxiv.org/abs/2507.15961v2)** | 2025-07-27 |  |
 | **[Improving Random Forests by Smoothing](https://arxiv.org/abs/2505.06852v1)** | 2025-05-11 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 4 pages appendix, 3 figures in appendix</p></details> |
-| **[Car Sensors Health Monitoring by Verification Based on Autoencoder and Random Forest Regression](https://arxiv.org/abs/2505.00876v1)** | 2025-05-01 | <details><summary>9Page...</summary><p>9Pages, 3 Figures and 5 Tables</p></details> |
 
