@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2026
+title: Latest 15 Papers - February 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -24,6 +24,7 @@ labels: documentation
 ## Random Forests Regression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Comprehensive and Spatially Detailed Passenger Vehicle and Truck Traffic Volume Data for the United States Estimated by Machine Learning](https://arxiv.org/abs/2502.05161v4)** | 2026-02-17 | <details><summary>18 pa...</summary><p>18 pages including references, 5 figures</p></details> |
 | **[Content-Driven Frame-Level Bit Prediction for Rate Control in Versatile Video Coding](https://arxiv.org/abs/2602.06242v1)** | 2026-02-05 | <details><summary>2026 ...</summary><p>2026 IEEE International Symposium on Circuits and Systems (ISCAS)</p></details> |
 | **[Adaptive Surrogate-Based Strategy for Accelerating Convergence Speed when Solving Expensive Unconstrained Multi-Objective Optimisation Problems](https://arxiv.org/abs/2601.21885v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted for publication in SWEVO (Swarm and Evolutionary Computation)</p></details> |
 | **[Dynamic Accuracy Estimation in a Wi-Fi-based Positioning System](https://arxiv.org/abs/2601.00999v1)** | 2026-01-02 | <details><summary>Origi...</summary><p>Originally presented at 2025 33rd Telecommunications Forum (TELFOR), Belgrade, Serbia</p></details> |
@@ -38,5 +39,4 @@ labels: documentation
 | **[A Cost-Effective Framework for Predicting Parking Availability Using Geospatial Data and Machine Learning](https://arxiv.org/abs/2508.14125v1)** | 2025-08-18 |  |
 | **[Enhancing Corrosion Resistance of Aluminum Alloys Through AI and ML Modeling](https://arxiv.org/abs/2508.11685v1)** | 2025-08-10 | <details><summary>Manus...</summary><p>Manuscript length: 11 pages, 6 figures</p></details> |
 | **[A Lightweight Face Quality Assessment Framework to Improve Face Verification Performance in Real-Time Screening Applications](https://arxiv.org/abs/2507.15961v2)** | 2025-07-27 |  |
-| **[Improving Random Forests by Smoothing](https://arxiv.org/abs/2505.06852v1)** | 2025-05-11 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 4 pages appendix, 3 figures in appendix</p></details> |
 
